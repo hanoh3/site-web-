@@ -1,0 +1,26 @@
+body{
+    background-color: #DFF2EE;
+}
+header{
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+  color: #51756F;
+  text-align: left;
+   line-height: 0.4;
+
+}
+a{
+font-family: "Orbitron", sans-serif; 
+text-decoration: none;
+padding: 0 5px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 50px;
+color: #ffffff;
+border-radius:10px ;
+background-color: #51756F;
+
+}
+  
